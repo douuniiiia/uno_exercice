@@ -9,6 +9,16 @@ body {
   flex-direction: column;
 }
 
+
+li{
+  color: white;
+}
+
+
+.isready{
+  color: white;
+}
+
 div{
   color: white;
   font-size: small;
